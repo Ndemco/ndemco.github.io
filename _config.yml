@@ -1,5 +1,5 @@
-title: "My Developer Blog"
-description: "This is where I write down my opinions about things related to software engineering"
+title: "Past the Happy Path"
+description: "Making sense of the messy reality of software engineering"
 theme: minima
 plugins:
   - jekyll-feed
