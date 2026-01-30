@@ -16,4 +16,4 @@ I enjoy a good cigar on a cool, still night.
 
 From software to plumbing, I like building systems—understanding how things work, why they fail, and how to make them better.
 
-I have strong (and changing) opinions about software engineering. This is where I plan to make them known.
+I have strong (and changing) opinions about software engineering. This is where I work through them in public.
