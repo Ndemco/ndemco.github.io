@@ -1,8 +1,6 @@
 title: "Past the Happy Path"
 description: "Making sense of the messy reality of software engineering"
 theme: minima
+author: Nick DeMarco
 plugins:
   - jekyll-feed
-
-author:
-  name: Nick DeMarco
