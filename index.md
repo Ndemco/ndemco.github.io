@@ -4,4 +4,4 @@ layout: default
 
 # Past the Happy Path
 
-*Making sense of the messy reality of software engineering.*
+*My attempt to make sense of the messy reality of software engineering.*
