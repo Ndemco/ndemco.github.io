@@ -1,6 +1,6 @@
 title: "Past the Happy Path"
 description: "Making sense of the messy reality of software engineering"
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
