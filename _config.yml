@@ -1,0 +1,8 @@
+title: "My Developer Blog"
+description: "This is where I write down my opinions about things related to software engineering"
+theme: minima
+plugins:
+  - jekyll-feed
+
+# optional:
+# author: Nick
