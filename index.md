@@ -1,7 +1,3 @@
 ---
-layout: default
+layout: home
 ---
-
-# Past the Happy Path
-
-*My attempt to make sense of the messy reality of software engineering.*
