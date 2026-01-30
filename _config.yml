@@ -3,3 +3,6 @@ description: "Making sense of the messy reality of software engineering"
 theme: minima
 plugins:
   - jekyll-feed
+
+author:
+  name: Nick
