@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You Can't Process Your Way Out of Bad Engineering"
+title: "You Can't Process Your Way Out of Weak Engineering"
 ---
 
 Many engineering organizations have a very predictable response to failure.
@@ -35,8 +35,11 @@ The organization feels safer, but the underlying quality problem is still there.
 At this point it's worth clarifying something. I'm not here to prescribe why an organization might end up with weak engineering outcomes.
 
 Maybe the hiring bar is too low.
+
 Maybe there isn’t enough mentorship for engineers who show potential.
+
 Maybe compensation makes it difficult to retain strong engineers.
+
 Maybe the engineering culture doesn’t reward good technical judgment.
 
 Maybe all of the above?
